@@ -1,2 +1,2 @@
-# BlockEnthusiast
+# Transaction Hashing Technique
 Blockchain uses hashing algorithms similar to encryption techniques used in password security. The blockchain approach takes hashing to the next step by linking blocks in a series to make transactions in the chain of blocks secure and preventing fraud through a distributed ledger.  This takes security away from a central authority and places security in the realm of peer to peer crowdsourced security. "Blockchain of Transaction hashing technique with Eclipse IDE JAVA"
